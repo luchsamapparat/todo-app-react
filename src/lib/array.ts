@@ -1,0 +1,1 @@
+export const lastElement = <T = unknown>(array: T[]): T => array[array.length - 1];
